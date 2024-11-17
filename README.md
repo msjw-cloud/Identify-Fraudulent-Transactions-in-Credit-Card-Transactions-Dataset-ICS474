@@ -26,7 +26,7 @@ This project implements a machine learning model for detecting fraudulent transa
 ## Data Analysis and Visualization
 
 ### Distribution of Key Numerical Features
-![Distribution Analysis](image1.png)
+![Distribution Analysis](./images/image01)
 - Left: Transaction amount distribution shows heavy right skew
 - Right: City population distribution on logarithmic scale shows concentration in smaller cities
 
