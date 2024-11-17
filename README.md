@@ -36,7 +36,7 @@ This project implements a machine learning model for detecting fraudulent transa
 - Right: Bar chart shows frequency of different transaction categories, with gas_transport and grocery_pos being most common
 
 ### Correlation Analysis
-![Correlation Matrix](image3.png)
+![Correlation Matrix](./images/correlation)
 - Left: Correlation matrix showing relationships between numerical features
 - Right: Scatter plot of amount vs city population, colored by fraud status
 - Key findings:
@@ -45,7 +45,7 @@ This project implements a machine learning model for detecting fraudulent transa
   - City population shows minimal correlation with other features
 
 ### Outlier Analysis
-![Outlier Detection](image4.png)
+![Outlier Detection](./images/outliers)
 - Left: Transaction amount distribution with outlier boundaries
 - Right: Box plots highlighting outliers in amount and city population
 - Outliers appear to be legitimate data points following expected patterns
