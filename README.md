@@ -31,7 +31,7 @@ This project implements a machine learning model for detecting fraudulent transa
 - Right: City population distribution on logarithmic scale shows concentration in smaller cities
 
 ### Transaction Categories and Value Ranges
-![Categories and Box Plots](image2.png)
+![Categories and Box Plots](./images/image02)
 - Left: Box plots show distribution of transaction amounts and city populations
 - Right: Bar chart shows frequency of different transaction categories, with gas_transport and grocery_pos being most common
 
